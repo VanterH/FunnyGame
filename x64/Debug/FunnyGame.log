@@ -1,0 +1,3 @@
+﻿  FunnyGame.cpp
+C:\Users\vante\source\repos\FunnyGame\FunnyGame\FunnyGame.cpp(78,14): warning C4244: =: преобразование "double" в "unsigned short", возможна потеря данных
+  FunnyGame.vcxproj -> C:\Users\vante\source\repos\FunnyGame\x64\Debug\FunnyGame.exe
